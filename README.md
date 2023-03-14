@@ -26,9 +26,9 @@
 
 ### I am a Back-End Developer
 - 🔭 I’m currently traning as a Back-end developer at FuntionUp
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Algorithms.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
