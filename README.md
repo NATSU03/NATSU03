@@ -55,6 +55,7 @@
 <br>
 <br>
 <br>
+<p>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint)
@@ -90,7 +91,7 @@
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
-
+</p>
 
 
 ### Github Stats
