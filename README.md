@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Vishwas Walhekar👋</b></h1>
 </p>
 
 <p>
@@ -24,9 +24,8 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-### I am a Full Stack Developer
-- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
-- 🔭 I’m currently working on my Portfolio Website :grin:
+### I am a Back-End Developer
+- 🔭 I’m currently traning as a Back-end developer at FuntionUp
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
@@ -64,9 +63,9 @@
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NATSU03&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vishwas's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NATSU03&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Vishwas's Top Languages">
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
