@@ -39,8 +39,8 @@
 ### Languages and Tools: 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GCP" width="35px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEq6kLJcZrVkN0Wp-WQD2MaAIKjP1w-0Z1ddnDXO7TPVi7W09Qef0V0fOIrTc5YA5cA4&usqp=CAU)" />
-<img align="left" alt="express" width="35px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png](https://miro.medium.com/v2/resize:fit:1400/1*9oOlDJKiLq1KhGoOivv51A.png)" />
+<img align="left" alt="GCP" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm9giMqi2ZhkGIOn6Yk3ufuWtWNltzfpLxdXk9i_7IQ&s" />
+<img align="left" alt="express" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
